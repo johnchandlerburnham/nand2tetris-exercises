@@ -15,7 +15,7 @@ tags: notes, programming, hardware
 
 ----
 
-- [Chapter 1: Boolean Logic](/tecp/01.html)
+- [Chapter 1: Boolean Logic](/projects/tecp/01)
 - Chapter 2: Boolean Arithmetic
 - Chapter 3: Sequential Logic
 - Chapter 4: Machine Language
